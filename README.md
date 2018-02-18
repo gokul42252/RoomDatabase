@@ -273,8 +273,5 @@ Showing the full code in RoomDatabase class.
 </pre>
 <img src="http://thoughtnerds.com/wp-content/uploads/2018/02/Screenshot_20180218-141622-169x300.jpg" alt="" width="254" height="451" class="alignnone wp-image-552" />
 
-<a href="https://github.com/gokul42252/RoomDatabase">Download</a> Full Source Code From <a href="https://github.com/gokul42252/RoomDatabase">Github</a>
-
-Keep following thoughtnerds for upcoming Android Room Persistence Library Advanced Database tutorial
 
 Thank you.Happy Coding :D
